@@ -68,7 +68,7 @@ Further analyses that could yield additional insights to further improve the chu
 - Try SHAP or LIME for explainable AI insights.
 - Consider customer lifetime value alongside churn prediction for better ROI targeting.
 ## For More Information
-See the full analysis in the [Jupyter Notebook]([aviation_company_risk_analysis.ipynb](https://github.com/CWanderi/P3-Project/blob/main/SyriaTel_Customer_Churn_Analysis.ipynb)) or review this [presentation](https://github.com/CWanderi/P3-Project/blob/main/SyriaTel%20PowerPoint%20Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/CWanderi/P3-Project/blob/main/SyriaTel_Customer_Churn_Analysis.ipynb) or review this [presentation](https://github.com/CWanderi/P3-Project/blob/main/SyriaTel%20PowerPoint%20Presentation.pdf).
 ## Repository Structure
 
 ```
