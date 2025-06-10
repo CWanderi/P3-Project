@@ -29,12 +29,17 @@ From this graph, we get to see that the factors that affect churning most are:
 - International plan
 - Total international calls
 - Total day charge
+
 ![Feature Importance](https://github.com/CWanderi/P3-Project/blob/main/Images/DecTree_Feature_Importance.png)
 
 From the following table we can conclude that the final prediction model had an accuracy of more than 93% and a ROC AUC of more than 0.88.
 This means the model is highly reliable as a predictor.
+
 ![Final Model Evaluation](https://github.com/CWanderi/P3-Project/blob/main/Images/Final_Model_Evaluation.png)
 
+The class imbalance shown below can be used to determine the total churning rate which is about 14%.
+
+![Churning Rate](https://github.com/CWanderi/P3-Project/blob/main/Images/class_imbalance.png)
 
 ## Conclusions
 From the analysis and prediction models above we can come to the conclusion that:
