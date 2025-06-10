@@ -23,7 +23,13 @@ This project utilizes:
 - Feature importance and optimization
 - Hyperparameter tuning
 ## Results
-The following factors are the most prominent in accidents; having a single engine, a reciprocating engine type, traveling for personal purposes, as well as being in the landing phase of flight.
+From this graph, we get to see that the factors that affect churning most are:
+- Total day minutes
+- Customer service calls
+- International plan
+- Total international calls
+- Total day charge
+
 ![Value Counts](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/images/value_counts.png)
 The most common aircraft make involved in accidents is the Cessna.
 ![Aircraft Make Frequency](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/images/top_10_most_common_makes.png)
