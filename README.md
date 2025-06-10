@@ -35,7 +35,7 @@ From this graph, we get to see that the factors that affect churning most are:
 From the following table we can conclude that the final prediction model had an accuracy of more than 93% and a ROC AUC of more than 0.88.
 This means the model is highly reliable as a predictor.
 
-![Final Model Evaluation](https://github.com/CWanderi/P3-Project/blob/main/Images/Final_Model_Evaluation.png)
+![Final Model Evaluation](https://github.com/CWanderi/P3-Project/blob/main/Images/Final_Model_Evaluation.PNG)
 
 The class imbalance shown below can be used to determine the total churning rate which is about 14%.
 
