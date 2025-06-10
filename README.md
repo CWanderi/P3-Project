@@ -75,6 +75,6 @@ See the full analysis in the [Jupyter Notebook]([aviation_company_risk_analysis.
 ├── Data
 ├── Images
 ├── README.md
-├── .pdf
+├── SyriaTel PowerPoint Presentation.pdf
 └── SyriaTel_Customer_Churning_Analysis.ipynb
 ```
