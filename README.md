@@ -29,12 +29,13 @@ From this graph, we get to see that the factors that affect churning most are:
 - International plan
 - Total international calls
 - Total day charge
+![Feature Importance](https://github.com/CWanderi/P3-Project/blob/main/Images/DecTree_Feature_Importance.png)
 
-![Value Counts](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/images/value_counts.png)
-The most common aircraft make involved in accidents is the Cessna.
-![Aircraft Make Frequency](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/images/top_10_most_common_makes.png)
-The data has a single peak in July with this having the highest number of recorded aircraft accidents.
-![Number of Accidents by Month](https://github.com/CWanderi/Clement_Project_Phase_1/blob/main/images/number_of_accidents_by_month.png)
+From the following table we can conclude that the final prediction model had an accuracy of more than 93% and a ROC AUC of more than 0.88.
+This means the model is highly reliable as a predictor.
+![Final Model Evaluation](https://github.com/CWanderi/P3-Project/blob/main/Images/Final_Model_Evaluation.png)
+
+
 ## Conclusions
 From the analysis and prediction models above we can come to the conclusion that:
 
@@ -66,9 +67,9 @@ See the full analysis in the [Jupyter Notebook]([aviation_company_risk_analysis.
 ## Repository Structure
 
 ```
-├── data
-├── images
+├── Data
+├── Images
 ├── README.md
-├── Aviation Company Risk Analysis.pdf
-└── aviation_company_risk_analysis.ipynb
+├── .pdf
+└── SyriaTel_Customer_Churning_Analysis.ipynb
 ```
